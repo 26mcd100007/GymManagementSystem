@@ -1,0 +1,19 @@
+# Maven build files
+target/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Environment and secrets
+.env
